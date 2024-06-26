@@ -1,0 +1,21 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.EventSystems;
+
+public class rychagScript : MonoBehaviour, IPointerClickHandler
+{
+    Animator anim;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        anim = GetComponent<Animator>();
+    }
+
+    public void OnPointerClick(PointerEventData eventData)
+    {
+        var state = anim.GetBool("IsOn");
+        anim.SetBool("IsOn", !state);
+    }
+}

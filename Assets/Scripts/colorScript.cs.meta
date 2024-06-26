@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: fe7167471e0a58344b9cd480a719eaa1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - raspylitel: {instanceID: 0}
+  - rychagzaslonki: {instanceID: 0}
+  - door: {instanceID: 0}
+  - rychagmasla: {instanceID: 0}
+  - kolba: {instanceID: 0}
+  - manometr: {instanceID: 0}
+  - materialred: {fileID: 2412706508545819028, guid: fe0eb41c26e644c4f93689fdcbba3824,
+      type: 3}
+  - materiallightmetal: {fileID: 2100000, guid: 73d241f05fd629340a1e6376c703f860,
+      type: 2}
+  - mainmetal: {fileID: -333415491942882640, guid: fe0eb41c26e644c4f93689fdcbba3824,
+      type: 3}
+  - gold: {fileID: 4737706778084857842, guid: fe0eb41c26e644c4f93689fdcbba3824, type: 3}
+  - defaultglass: {fileID: 4427394405292297522, guid: fe0eb41c26e644c4f93689fdcbba3824,
+      type: 3}
+  - metaldarkgrey: {fileID: 6456940790829494949, guid: fe0eb41c26e644c4f93689fdcbba3824,
+      type: 3}
+  - blackmetal: {fileID: 7390871704515345542, guid: fe0eb41c26e644c4f93689fdcbba3824,
+      type: 3}
+  - shkala: {fileID: 3514935808808263199, guid: fe0eb41c26e644c4f93689fdcbba3824,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
