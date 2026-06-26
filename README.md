@@ -1,4 +1,4 @@
-#Educational Steam Train Simulator 
+Educational Steam Train Simulator 
 Diploma project
 
 Unity 2019.4.39f1 | Autodesk 3ds Max 2022
